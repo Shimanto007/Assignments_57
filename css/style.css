@@ -1,7 +1,7 @@
 
 .container{
 	width:1300px;
-	height:1100px;
+	height:2300px;
 	background:purple;
 	margin:auto;
 }
@@ -30,7 +30,7 @@
 }
 .content-part1{
 	width:1000px;
-	height:400px;
+	height:200px;
 	background:#800000;
 	margin:auto;
 	float:bottom;
@@ -38,7 +38,15 @@
 }
 .content-part2{
 	width:1000px;
-	height:400px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.content-part3{
+	width:1000px;
+	height:200px;
 	background:#800000;
 	margin:auto;
 	float:bottom;
@@ -46,74 +54,418 @@
 }
 .part-1{
 	width:33.33%;
-	height:400px;
+	height:200px;
 	background:#F3927D;
 	float:left;
 }
 .L1{
 	font-size:50px;
 	color:black;
-	padding:100px;
+	padding:15px;
 	text-align:center;
 }
 .part-2{
 	width:33.33%;
-	height:400px;
+	height:200px;
 	background:#B470FB;
 	float:left;
 }
 .L2{
 	font-size:50px;
 	color:black;
-	padding:100px;
+	padding:15px;
 	text-align:center;
 }
 .part-3{
 	width:33.33%;
-	height:400px;
+	height:200px;
 	background:white;
 	float:left;
 }
 .L3{
 	font-size:50px;
 	color:black;
-	padding:100px;
+	padding:15px;
 	text-align:center;
 }
 .part-4{
 	width:33.33%;
-	height:400px;
+	height:200px;
 	background:white;
 	float:left;
 }
 .L4{
 	font-size:50px;
 	color:black;
-	padding:100px;
+	padding:15px;
 	text-align:center;
 }
 .part-5{
 	width:33.33%;
-	height:400px;
+	height:200px;
 	background:green;
 	float:left;
 }
 .L5{
 	font-size:50px;
 	color:black;
-	padding:100px;
+	padding:15px;
 	text-align:center;
 }
 .part-6{
 	width:33.33%;
-	height:400px;
+	height:200px;
 	background:red;
 	float:left;
 }
-.L6{
+.L6 {
 	font-size:50px;
 	color:black;
-	padding:100px;
+	padding:15px;
+	text-align:center;
+}
+.part-7{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L7{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-8{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L8{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-9{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L9 {
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.content-part4{
+	width:1000px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.part-10{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L10{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-11{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L11{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-12{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L12 {
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.content-part5{
+	width:1000px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.part-13{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L13{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-14{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L14{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-15{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L15 {
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.content-part6{
+	width:1000px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.part-16{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L16{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-17{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L17{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-18{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L18 {
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.content-part7{
+	width:1000px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.part-19{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L19{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-20{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L20{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-21{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L21 {
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.content-part8{
+	width:1000px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.part-22{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L22{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-23{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L23{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-24{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L24 {
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.content-part9{
+	width:1000px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.part-25{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L25{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-26{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L26{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-27{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L27 {
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.content-part10{
+	width:1000px;
+	height:200px;
+	background:#800000;
+	margin:auto;
+	float:bottom;
+	overflow:hidden;  
+}
+.part-28{
+	width:33.33%;
+	height:200px;
+	background:blue;
+	float:left;
+}
+.L28{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-29{
+	width:33.33%;
+	height:200px;
+	background:white;
+	float:left;
+}
+.L29{
+	font-size:50px;
+	color:black;
+	padding:15px;
+	text-align:center;
+}
+.part-30{
+	width:33.33%;
+	height:200px;
+	background:green;
+	float:left;
+}
+.L30 {
+	font-size:50px;
+	color:black;
+	padding:15px;
 	text-align:center;
 }
 .footer{

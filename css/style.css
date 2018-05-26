@@ -2,13 +2,13 @@
 .container{
 	width:1300px;
 	height:2700px;
-	background:purple;
+	background:linear-gradient( #7D3C98,#0E6655 );
 	margin:auto;
 }
 .header{
 	width:1300px;
 	height:80px;
-	background:blue;
+	background:linear-gradient(#17202A , #0B5345);
 }
 .para-1{
 	margin:auto;
@@ -18,9 +18,10 @@
 	text-align:center;  
 }
 .mark{
-	width:100%;
+	width:99.50%;
 	height:100px;
-	background:#DFDC60;
+	background:linear-gradient(to right, #E59866, #F7DC6F);
+	border:solid black;
 }
 .para-2{
 	margin:auto;
@@ -55,7 +56,7 @@
 .part-1{
 	width:33.33%;
 	height:200px;
-	background:#F3927D;
+	background:linear-gradient(45deg, #B2BABB, #EDBB99);
 	float:left;
 }
 .L1{
@@ -66,7 +67,7 @@
 .part-2{
 	width:33.33%;
 	height:200px;
-	background:#B470FB;
+	background:linear-gradient(#229954, #85C1E9);
 	float:left;
 }
 .L2{
@@ -77,7 +78,7 @@
 .part-3{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#F8C471, #C39BD3);
 	float:left;
 }
 .L3{
@@ -88,7 +89,7 @@
 .part-4{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#BDC3C7, #F8C471);
 	float:left;
 }
 .L4{
@@ -99,7 +100,7 @@
 .part-5{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient( -45deg, #76D7C4, #F5B7B1);
 	float:left;
 }
 .L5{
@@ -110,7 +111,7 @@
 .part-6{
 	width:33.33%;
 	height:200px;
-	background:red;
+	background:linear-gradient(#28B463, #F5B041);
 	float:left;
 }
 .L6 {
@@ -121,7 +122,7 @@
 .part-7{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(#641E16, #F7DC6F);
 	float:left;
 }
 .L7{
@@ -132,7 +133,7 @@
 .part-8{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(-45deg, #0E6251, #76D7C4);
 	float:left;
 }
 .L8{
@@ -143,7 +144,7 @@
 .part-9{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(45deg, #ABEBC6, #4A235A);
 	float:left;
 }
 .L9 {
@@ -162,7 +163,7 @@
 .part-10{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(to right ,#154360,#CD6155);
 	float:left;
 }
 .L10{
@@ -173,7 +174,7 @@
 .part-11{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#626567, #F4F6F6);
 	float:left;
 }
 .L11{
@@ -184,7 +185,7 @@
 .part-12{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(to right, #17202A, #D6DBDF);
 	float:left;
 }
 .L12 {
@@ -203,7 +204,7 @@
 .part-13{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(#839192, #1D8348);
 	float:left;
 }
 .L13{
@@ -214,7 +215,7 @@
 .part-14{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#1D8348, #2874A6);
 	float:left;
 }
 .L14{
@@ -225,7 +226,7 @@
 .part-15{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(#F4D03F, #7D3C98);
 	float:left;
 }
 .L15 {
@@ -244,7 +245,7 @@
 .part-16{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(to right ,#C0392B, #58D68D);
 	float:left;
 }
 .L16{
@@ -255,7 +256,7 @@
 .part-17{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#138D75, #76D7C4);
 	float:left;
 }
 .L17{
@@ -266,7 +267,7 @@
 .part-18{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(45deg, #F1C40F, #C70039);
 	float:left;
 }
 .L18 {
@@ -285,7 +286,7 @@
 .part-19{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(-45deg, #138D75, #F1C40F);
 	float:left;
 }
 .L19{
@@ -296,7 +297,7 @@
 .part-20{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#8E44AD, #CB4335);
 	float:left;
 }
 .L20{
@@ -307,7 +308,7 @@
 .part-21{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(#82E0AA, #D35400);
 	float:left;
 }
 .L21 {
@@ -326,7 +327,7 @@
 .part-22{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(#8E44AD, #F1C40F);
 	float:left;
 }
 .L22{
@@ -337,7 +338,7 @@
 .part-23{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#CA6F1E ,#A569BD);
 	float:left;
 }
 .L23{
@@ -348,7 +349,7 @@
 .part-24{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(#EC7063, #229954);
 	float:left;
 }
 .L24 {
@@ -367,7 +368,7 @@
 .part-25{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(#1B4F72, #A3E4D7);
 	float:left;
 }
 .L25{
@@ -378,7 +379,7 @@
 .part-26{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(-45deg, #FA1E05, #F7FA05);
 	float:left;
 }
 .L26{
@@ -389,7 +390,7 @@
 .part-27{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(#87884F,#229954);
 	float:left;
 }
 .L27 {
@@ -408,7 +409,7 @@
 .part-28{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(#808B96, #C0392B);
 	float:left;
 }
 .L28{
@@ -419,7 +420,7 @@
 .part-29{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#C13EEB, #EB3E63);
 	float:left;
 }
 .L29{
@@ -430,7 +431,7 @@
 .part-30{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(to right, #C0392B, #C70039);
 	float:left;
 }
 .L30 {
@@ -449,7 +450,7 @@
 .part-31{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(#F5B041, #F1C40F);
 	float:left;
 }
 .L31{
@@ -460,7 +461,7 @@
 .part-32{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#A04000, #82E0AA);
 	float:left;
 }
 .L32{
@@ -471,7 +472,7 @@
 .part-33{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(#1B4F72,#76D7C4);
 	float:left;
 }
 .L33 {
@@ -490,7 +491,7 @@
 .part-34{
 	width:33.33%;
 	height:200px;
-	background:blue;
+	background:linear-gradient(#17A589, #F4D03F);
 	float:left;
 }
 .L34{
@@ -501,7 +502,7 @@
 .part-35{
 	width:33.33%;
 	height:200px;
-	background:white;
+	background:linear-gradient(#D35400, #A569BD);
 	float:left;
 }
 .L35{
@@ -512,7 +513,7 @@
 .part-36{
 	width:33.33%;
 	height:200px;
-	background:green;
+	background:linear-gradient(#145A32, #F1C40F);
 	float:left;
 }
 .L36 {

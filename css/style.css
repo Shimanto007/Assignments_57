@@ -10,16 +10,19 @@
 	height:80px;
 	background:linear-gradient(#17202A , #0B5345);
 }
-.ss{
+.img{
 	width:200px;
 	height:80px;
+	float:left;
 }
 .para-1{
 	margin:auto;
-	padding:2px;
-	font-size:70px;
+	font-size:50px;
 	color:#FFC300;
-	text-align:center;  
+	text-align:center; 
+	margin:auto;
+	float:left;
+	padding:0px 100px 0px 200px;
 }
 .mark{
 	width:99.50%;
